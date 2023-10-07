@@ -32,7 +32,7 @@ A blockchain-based decentralized music streaming platform to connect music enthu
 - Install and setup Ganache, Truffle, and Metamask (chrome extension)
 - Clone the repository
 ``` 
-git clone https://github.com/riya-joshi-401/Knack-Blockchain-Music-System.git
+git clone https://github.com/RogerThaTOP/Blockchain-In-Music-Industry-Knack-Music-Platform.git
 ```
 - Setup a workspace of knack on Ganache
 - Connect Metamask to the Ganache workspace
