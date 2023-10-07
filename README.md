@@ -1,4 +1,10 @@
 # Blockchain-In-Music-Industry-Knack-Music-Platform
+
+Created by Romit Chattopadhyay
+Stream: CSE(AIML)
+Enrollment Number: 12020002018032
+
+
 ## Problem Statement:
 Music is known to be effective for mood improvement. It has the power to change one's overall frame of mind. Music also plays a very big role in changing the atmosphere and influencing the ambiance of any place. Seeing how much of a great impact music has on everyone’s lives we need a stable service to fulfill a few requirements that would make listening to music a better experience.
 ## Motivation:
